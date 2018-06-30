@@ -1,0 +1,52 @@
+{
+    "name": "rdg-html5",
+    "displayName": "RDG HTML5 Sample Code",
+    "publisher": "Red Design Germany",
+    "description": "A basic RDG HTML5 Sample Code snippet generator.",
+    "version": "1.0.0",
+    "license": "MIT",
+    "icon": "images/icon.png",
+    "galleryBanner": {
+        "color": "#505050",
+        "theme": "dark"
+    },
+    "engines": {
+        "vscode": "^0.10.x"
+    },
+    "homepage": "https://github.com/RedDesignGermany/html5-rdg/blob/master/README.md",
+    "bugs": {
+        "url": "https://github.com/RedDesignGermany/html5-rdg/issues",
+        "email": "info@red-design-germany.net"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/RedDesignGermany/html5-rdg/vsc_html5_boilerplate.git"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "keywords": [
+	"rdg"
+        "html",
+        "html5",
+        "snippet",
+        "snippets",
+        "rdg-sample-code"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "html",
+                "path": "./snippets/html.json"
+            },
+            {
+                "language": "php",
+                "path": "./snippets/html.json"
+            },
+            {
+                "language": "ruby",
+                "path": "./snippets/html.json"
+            }
+        ]
+    }
+}
