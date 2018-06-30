@@ -1,12 +1,13 @@
 {
-	"html5-rdg" : {
-		"prefix": "html5-rdg",
+	"rdg-html5" : {
+		"prefix": "rdg-html5",
 		"body" : [
 			"<!DOCTYPE html>",
 			"<!--[if lt IE 7]>      <html class=\"no-js lt-ie9 lt-ie8 lt-ie7\"> <![endif]-->",
 			"<!--[if IE 7]>         <html class=\"no-js lt-ie9 lt-ie8\"> <![endif]-->",
 			"<!--[if IE 8]>         <html class=\"no-js lt-ie9\"> <![endif]-->",
 			"<!--[if gt IE 8]><!--> <html class=\"no-js\"> <!--<![endif]-->",
+			"<html lang=\"de\">",
 			"\t<head>",
             "\t\t<meta charset=\"utf-8\">",
             "\t\t<!-- iOS -->",
@@ -16,7 +17,7 @@
             "\t\t<!-- Language for Chrome -->",
             "\t\t<meta name=\"google\" content=\"notranslate\">",
             "\t\t<meta http-equiv=\"Content-Language\" content=\"de_DE\">",
-            "\t\t<title>$1</title>",
+            "\t\t<title>RED DESIGN GERMANY - Kreativagentur und Designschmiede f&uuml;r digitale Medien</title>",
             "\t\t<!-- shortcut icon -->",
             "\t\t<!-- CHROME HACK FOR LOCALHOST - FAVICON IN ROOT DIRECTORY INSTEAD OF IMG FOLDER -->",
             "\t\t<link rel=\"icon\" type=\"image/x-icon\" href=\"favicon.ico\">",
@@ -37,6 +38,6 @@
 			"\t</body>",
 			"</html>"
 		],
-		"description": "A very basic HTML5 RDG Template code."
+		"description": "A very basic RDG HTML5 Template code."
 	}
 }
