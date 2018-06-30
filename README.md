@@ -6,7 +6,7 @@ This extension provides the standard RDG HTML5 Sample Code used in all web appli
 # Usage
 Type 'rdg-html5' in a HTML file and select the snippet from the auto suggestion dropdown to get the RDG HTML5 sample code.
 
-(https://s19.postimg.cc/3mig98d5v/html_boilerplate_1_0_3.gif "Snippets Preview")
+![alt text](https://github.com/RedDesignGermany/vsc_rdg_html5_sampel_code/blob/master/images/preview.gif "RDG HTML5 In Action")
 
 # Installation
 
